@@ -114,20 +114,7 @@ Acompanhamento individual e revisão contínua de portfólio de estagiários de 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laysasanha&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laysasanha&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysasanha&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laysasanha&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" />
 </p>
 
 ---
